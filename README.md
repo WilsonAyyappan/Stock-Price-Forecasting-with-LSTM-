@@ -2,6 +2,6 @@ This project explores the application of Long Short-Term Memory (LSTM) networks 
 
 Repository Contents:
 
-6835716_Dissertation.ipynb : Code 
+6835716_Dissertation.ipynb : Jupyter notebook file containing the code and analysis.
 
 6835716_report.pdf : Final Report
